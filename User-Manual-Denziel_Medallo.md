@@ -1,4 +1,5 @@
 # User Manual for Denziel O. Medallo
+* this is a manual and does not need any images for proof or any kind of proof.
 ## My Role
 * I'm a Website Developer Intern
 * The days and times I work are: Monday - Saturday | 12:00 PM - 7:00 PM GMT+8
