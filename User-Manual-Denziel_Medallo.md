@@ -28,5 +28,4 @@
 * My work superpower is I have a habit of mapping out my entire next day in advance. I check all my messages and emails to ensure my plan accounts for every requirement, allowing me to stay focused and deliver consistent results without needing constant reminders.
 
 ### Task
-* I have attached my usermanual to my supervisor here:
-<img width="1539" height="569" alt="Image" src="https://github.com/user-attachments/assets/2c367b6a-b2d1-4003-becc-279ca7f5675c" />
+* I have sent my email
