@@ -35,5 +35,4 @@
 
 
 ### Task
-* I have attached my usermanual to my supervisor here:
-<img width="1539" height="569" alt="Image" src="https://github.com/user-attachments/assets/2c367b6a-b2d1-4003-becc-279ca7f5675c" />
+* I have sent an email
