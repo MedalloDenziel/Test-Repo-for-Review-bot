@@ -10,7 +10,7 @@
 
 ##
 ## Task
-
+### Create a kanban board for your repo with relevant columns 
 I have created a GitHub Project board for my repository with the following columns:
 * **Not Started** Upcoming tasks and ideas.
 * **In Progress** The single task I am currently focused on.
@@ -19,4 +19,7 @@ I have created a GitHub Project board for my repository with the following colum
 
  ![Image](https://github.com/user-attachments/assets/fb71d3e4-c9e7-4790-a91e-fbb0a9737fe4) 
 
+### Move at least one task through the Kanban process and update its status correctly.
+* 
+### Identify one way you can improve task tracking in your role.
 * One way I can improve task tracking is by adding **checklists** to my Kanban cards. Since I like to plan my day in detail, breaking a large GitHub issue into 3–4 smaller sub-tasks on the card will help me track my progress more accurately throughout the day.
